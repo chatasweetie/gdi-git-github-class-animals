@@ -13,7 +13,7 @@ This repo is for students of Girl Developer It's Intro to Git and Github course
 #### Steps
 - Make sure you have a [Github](https://github.com/) Account and have your username and password avaialbe 
 - Get this project locally
-  - `git clone https://github.com/brendajin/HackathonAnimals.git`
+  - `git clone https://github.com/chatasweetie/gdi-git-github-class-animals.git`
 - Create a local file with the name of your animal
   - Example:`echo “my giraffe” > giraffe.txt`
 - Stage your changes
